@@ -20,9 +20,15 @@ The following domains exist in [BIS](../index.md)
 
 ### [ClassificationSystems](./ClassificationSystems.ecschema.md)
 
+### [Profiles](./Profiles.ecschema.md)
+
 ## Building discipline
 
 ### [Building Spatial](./BuildingSpatial.ecschema.md)
+
+## Structural discipline
+
+### [StructuralPhysical](./StructuralPhysical.ecschema.md)
 
 ## Standard Schemas
 
